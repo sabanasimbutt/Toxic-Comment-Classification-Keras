@@ -1,3 +1,3 @@
 # Toxic-Comment-Classification-Keras
 
-A Kaggle competition of identifying toxic comments.
+A Kaggle competition of classifying toxic and normal comments.
